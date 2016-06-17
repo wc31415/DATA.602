@@ -18,22 +18,22 @@ http://www.nycsolarmap.com/
 
 From the LL84 dataset (for calendar year 2012), I focused on complete entries for properties in Brooklyn.
 
-* [Street Number]
-* [Street Name]
-* [Zip Code]
-* [Emissions (converted from M to pounds/year)]
-* [Property Type]
+* Street Number
+* Street Name
+* Zip Code
+* Emissions (converted from M to pounds/year)
+* Property Type
 
 I combined those selected properties with data from the NYC Solar Map.
 
-* [System Size]
-* [Cost]
-* [Cost Reduced]
-* [Break Even (years)]
-* [Energy Production ()]
-* [Savings]
-* [Emissions Reduction]
-* [Trees]
+* System Size
+* Cost
+* Cost Reduced
+* Break Even (years)
+* Energy Production ()
+* Savings
+* Emissions Reduction
+* Trees
 
 
 
