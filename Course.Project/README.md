@@ -17,19 +17,16 @@ From the LL84 dataset (for calendar year 2012), I focused on complete entries fo
 * Street Number
 * Street Name
 * Zip Code
-* Emissions (converted from M to pounds/year)
+* Emissions - converted from metric tons of carbon dioxide equivalent (MtCO2e) to pounds (lbs)
 * Property Type
 
 I combined those selected properties with data from the NYC Solar Map.
 
-* System Size
-* Cost
-* Cost Reduced
-* Break Even (years)
-* Energy Production ()
-* Savings
-* Emissions Reduction
-* Trees
+* Break Even - number of years until the rooftop photovoltaic system breaks even
+* Energy Production - measured in kilowatt hours per year (kWh/yr) 
+* Savings - measured in dollars per year ($/yr)
+* Emissions Reduction - measured in pounds per year (lbs/yr)
+* Trees - number of trees planted that would be the equivalent of the greenhouse gas reduction
 
 
 
