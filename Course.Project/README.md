@@ -28,7 +28,13 @@ I combined those selected properties with data from the NYC Solar Map.
 * Emissions Reduction - measured in pounds per year (lbs/yr)
 * Trees - number of trees planted that would be the equivalent of the greenhouse gas reduction
 
+This map displays summaries for zip codes in Brooklyn for potential greenhouse gas (GHG) emissions 
+reductions if rooftop photovoltaic solar energy systems were installed.
 
+It also displays which zip code has the highest concentration of GHG emissions, the highest GHG
+emissions reduction potential (by proportion), the highest GHG emissions reduction potential
+(by number), the highest energy production potential from rooftop photovoltaic systems, and
+the highest savings potential from energy production.
 
 
 
