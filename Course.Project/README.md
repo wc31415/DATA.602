@@ -36,7 +36,7 @@ emissions reduction potential (by proportion), the highest GHG emissions reducti
 (by number), the highest energy production potential from rooftop photovoltaic systems, and
 the highest savings potential from energy production.
 
-
+![Output 1](https://github.com/wc31415/DATA.602/blob/master/Course.Project/Output/Output%201.PNG)
 
 
 
