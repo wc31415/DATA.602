@@ -1,5 +1,5 @@
 # DATA.602
-Coursework from Data 602 - Advanced Programming Techniques
+Coursework from DATA 602 - Advanced Programming Techniques
 
 https://sps.cuny.edu/academics/graduate/master-science-data-analytics-ms
 
