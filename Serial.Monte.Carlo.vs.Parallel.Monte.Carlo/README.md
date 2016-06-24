@@ -1,3 +1,5 @@
 # Homework Assignment 11
 
-Comparing performance of Monte Carlo simulations (serial vs. parallel)
+Comparing performance of Monte Carlo simulations
+
+Serial Computing vs. Parallel Computing
