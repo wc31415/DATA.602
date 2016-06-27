@@ -1,4 +1,4 @@
-# Homework Assignment 11
+# Homework Assignment 11 - December 2013
 
 Comparing performance of Monte Carlo simulations
 
