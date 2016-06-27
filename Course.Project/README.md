@@ -1,4 +1,4 @@
-# DATA 602 Course Project
+# DATA 602 Course Project - December 2013
 
 The Brooklyn dataset was created from the NYC Local Law 84 Energy and Water Data Disclosure and data from the NYC Solar Map.
 * http://www.nyc.gov/html/gbee/html/plan/ll84_scores.shtml
