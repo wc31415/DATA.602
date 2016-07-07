@@ -3,5 +3,4 @@
 Image Processing
 
 * Prints center points of objects found in image
-
 * Prints number of objects found in image
